@@ -13,13 +13,13 @@ import { Avatar, AvatarFallback, AvatarImage} from "@/components/ui/avatar";
 import db from "../../data/db.json";
 
 interface Artist {
-  id: number; // assuming id is a numeric identifier
-  username: string;
-  likes: number;
-  comments: number;
-  total_points: number;
-  avatar: string;
+  id: number;
   post_url: string;
+  likes: string; // Change to string
+  comments: string; // Change to string
+  username: string;
+  avatar: string;
+  total_points: number;
 }
 
 // async function getArtists(): Promise<Artist[]> {
