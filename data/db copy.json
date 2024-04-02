@@ -1,0 +1,102 @@
+{
+  "artists": [
+    {
+        "id": 1,
+        "comments": 295,
+        "likes": 130,
+        "username": "_bighomieshay",
+        "avatar": "413348425_665573882458793_8716228395557962104_n.jpg",
+        "total_points": 360.0
+    },
+    {
+        "id": 2,
+        "comments": 436,
+        "likes": 329,
+        "username": "mstrhuhhh",
+        "avatar": "242916323_2033610660110871_5148834530726312048_n.jpg",
+        "total_points": 600.5
+    },
+    {
+        "id": 3,
+        "comments": 124,
+        "likes": 23,
+        "username": "thereal_loehype",
+        "avatar": "317057163_134483096069202_6806094126542333086_n.jpg",
+        "total_points": 135.5
+    },
+    {
+        "id": 4,
+        "comments": 176,
+        "likes": 49,
+        "username": "adknovaa",
+        "avatar": "432729327_1118403689349749_7896189694729799328_n.jpg",
+        "total_points": 200.5
+    },
+    {
+        "id": 5,
+        "comments": 114,
+        "likes": 49,
+        "username": "thereal_loemb",
+        "avatar": "368341956_834676748218631_1909934631704008993_n.jpg",
+        "total_points": 138.5
+    },
+    {
+        "id": 6,
+        "comments": 69,
+        "likes": 50,
+        "username": "kayredbk2",
+        "avatar": "287590862_173527315051024_4842508615777398893_n.jpg",
+        "total_points": 94.0
+    },
+    {
+        "id": 7,
+        "comments": 43,
+        "likes": 21,
+        "username": "kingspazzotv",
+        "avatar": "311455938_168456512517428_4288208297317518514_n.jpg",
+        "total_points": 53.5
+    },
+    {
+        "id": 8,
+        "comments": 598,
+        "likes": 193,
+        "username": "cryssybandzz",
+        "avatar": "429857661_7099206743525351_1261749719288391518_n.jpg",
+        "total_points": 694.5
+    },
+    {
+        "id": 9,
+        "comments": 161,
+        "likes": 40,
+        "username": "pocahontae",
+        "avatar": "424968377_906453140977130_1493457848030410384_n.jpg",
+        "total_points": 181.0
+    },
+    {
+        "id": 10,
+        "comments": 285,
+        "likes": 54,
+        "username": "morenabuena__",
+        "avatar": "434437780_416560531057764_5219574296494566643_n.jpg",
+        "total_points": 312.0
+    },
+    {
+        "id": 11,
+        "comments": 172,
+        "likes": 83,
+        "username": "gvo_serriano",
+        "avatar": "434458358_1145432839821958_8745278984794297539_n.jpg",
+        "total_points": 213.5
+    },
+    {
+        "id": 12,
+        "comments": 156,
+        "likes": 66,
+        "username": "_biggtease",
+        "avatar": "292831023_601207698271410_320588232694291547_n.jpg",
+        "total_points": 189.0
+    }
+]
+
+
+}
