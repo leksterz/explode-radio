@@ -10,6 +10,7 @@ import {
 } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import { Avatar, AvatarFallback, AvatarImage} from "@/components/ui/avatar";
+import db from "../../data/db.json";
 
 interface Artist {
   id: number; // assuming id is a numeric identifier
@@ -21,9 +22,13 @@ interface Artist {
   post_url: string;
 }
 
-async function getArtists(): Promise<Artist[]> {
-  const response = await fetch("http://localhost:4009/artists");
-  return response.json();
+// async function getArtists(): Promise<Artist[]> {
+//   const response = await fetch("http://localhost:4009/artists");
+//   return response.json();
+// }
+
+function getArtists(): Artist[] {
+  return db.artists;
 }
 
 export default async function Home() {
