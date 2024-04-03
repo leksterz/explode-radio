@@ -1,130 +1,160 @@
 {
-    "artists": [
-      {
-        "id": 1,
-        "post_url": "https://www.instagram.com/p/C4-7TC3rY8q/",
-        "likes": "298",
-        "comments": "132",
-        "username": "_bighomieshay",
-        "avatar": "413348425_665573882458793_8716228395557962104_n.jpg",
-        "total_points": 364.0
-      },
-      {
-        "id": 2,
-        "post_url": "https://www.instagram.com/p/C4-7oFWrFiH/",
-        "likes": "431",
-        "comments": "329",
-        "username": "mstrhuhhh",
-        "avatar": "242916323_2033610660110871_5148834530726312048_n.jpg",
-        "total_points": 595.5
-      },
-      {
-        "id": 3,
-        "post_url": "https://www.instagram.com/p/C5Bd9glLJuP/",
-        "likes": "125",
-        "comments": "24",
-        "username": "thereal_loehype",
-        "avatar": "317057163_134483096069202_6806094126542333086_n.jpg",
-        "total_points": 137.0
-      },
-      {
-        "id": 4,
-        "post_url": "https://www.instagram.com/p/C5B3_gFu_jx/",
-        "likes": "177",
-        "comments": "49",
-        "username": "adknovaa",
-        "avatar": "432729327_1118403689349749_7896189694729799328_n.jpg",
-        "total_points": 201.5
-      },
-      {
-        "id": 5,
-        "post_url": "https://www.instagram.com/p/C5BrflbrK1t/",
-        "likes": "114",
-        "comments": "49",
-        "username": "thereal_loemb",
-        "avatar": "368341956_834676748218631_1909934631704008993_n.jpg",
-        "total_points": 138.5
-      },
-      {
-        "id": 6,
-        "post_url": "https://www.instagram.com/p/C4-6hgLrHN2/",
-        "likes": "69",
-        "comments": "50",
-        "username": "kayredbk2",
-        "avatar": "287590862_173527315051024_4842508615777398893_n.jpg",
-        "total_points": 94.0
-      },
-      {
-        "id": 7,
-        "post_url": "https://www.instagram.com/p/C5EHcfULvq-/",
-        "likes": "43",
-        "comments": "21",
-        "username": "kingspazzotv",
-        "avatar": "311455938_168456512517428_4288208297317518514_n.jpg",
-        "total_points": 53.5
-      },
-      {
-        "id": 8,
-        "post_url": "https://www.instagram.com/p/C5GynpZL-5k/",
-        "likes": "604",
-        "comments": "194",
-        "username": "cryssybandzz",
-        "avatar": "429857661_7099206743525351_1261749719288391518_n.jpg",
-        "total_points": 701.0
-      },
-      {
-        "id": 9,
-        "post_url": "https://www.instagram.com/p/C5GwEBhr_wx/",
-        "likes": "165",
-        "comments": "40",
-        "username": "pocahontae",
-        "avatar": "424968377_906453140977130_1493457848030410384_n.jpg",
-        "total_points": 185.0
-      },
-      {
-        "id": 10,
-        "post_url": "https://www.instagram.com/p/C5JPzfDroLL/",
-        "likes": "293",
-        "comments": "57",
-        "username": "morenabuena__",
-        "avatar": "435015196_807018451485152_7539867595346196720_n.jpg",
-        "total_points": 321.5
-      },
-      {
-        "id": 11,
-        "post_url": "https://www.instagram.com/p/C5KNq-yLUAS/",
-        "likes": "181",
-        "comments": "85",
-        "username": "gvo_serriano",
-        "avatar": "434458358_1145432839821958_8745278984794297539_n.jpg",
-        "total_points": 223.5
-      },
-      {
-        "id": 12,
-        "post_url": "https://www.instagram.com/p/C5LskVKLPkv/",
-        "likes": "169",
-        "comments": "73",
-        "username": "_biggtease",
-        "avatar": "292831023_601207698271410_320588232694291547_n.jpg",
-        "total_points": 205.5
-      },
-      {
-        "id": 13,
-        "post_url": "https://www.instagram.com/p/C5O1I-8O2sf/",
-        "likes": "108",
-        "comments": "64",
-        "username": "villaincalled_zoe",
-        "avatar": "339337908_1313396926187200_96091803077920782_n.jpg",
-        "total_points": 140.0
-      },
-      {
-        "id": 14,
-        "post_url": "https://www.instagram.com/p/C5O2o-nxNis/",
-        "likes": "331",
-        "comments": "86",
-        "username": "iamtherealladymac",
-        "avatar": "425312903_949804949879979_532649741883130245_n.jpg",
-        "total_points": 374.0
-      }
-    ]
-  }
+  "artists": [
+    {
+      "id": 1,
+      "post_url": "https://www.instagram.com/p/C4-7TC3rY8q/",
+      "likes": "309",
+      "comments": "132",
+      "username": "_bighomieshay",
+      "avatar": "413348425_665573882458793_8716228395557962104_n.jpg",
+      "total_points": 375.0,
+      "bitcoin_address": "1N1dZh9qCdyuqcW4uB4jz3NUjFcpr76nUT"
+    },
+    {
+      "id": 2,
+      "post_url": "https://www.instagram.com/p/C4-7oFWrFiH/",
+      "likes": "432",
+      "comments": "330",
+      "username": "mstrhuhhh",
+      "avatar": "242916323_2033610660110871_5148834530726312048_n.jpg",
+      "total_points": 597.0,
+      "bitcoin_address": "1DoEWCr894jmnge3ShWUwT656yxKb8EWFN"
+    },
+    {
+      "id": 3,
+      "post_url": "https://www.instagram.com/p/C5Bd9glLJuP/",
+      "likes": "126",
+      "comments": "24",
+      "username": "thereal_loehype",
+      "avatar": "317057163_134483096069202_6806094126542333086_n.jpg",
+      "total_points": 138.0,
+      "bitcoin_address": "14jbk2TPGxdLZgKCKhgzTbVQCiy5xJQQ5h"
+    },
+    {
+      "id": 4,
+      "post_url": "https://www.instagram.com/p/C5B3_gFu_jx/",
+      "likes": "178",
+      "comments": "50",
+      "username": "adknovaa",
+      "avatar": "432729327_1118403689349749_7896189694729799328_n.jpg",
+      "total_points": 203.0,
+      "bitcoin_address": "1Fp53Pn24CQ29hL31SwAVif144ibEuo2mH"
+    },
+    {
+      "id": 5,
+      "post_url": "https://www.instagram.com/p/C5BrflbrK1t/",
+      "likes": "114",
+      "comments": "49",
+      "username": "thereal_loemb",
+      "avatar": "368341956_834676748218631_1909934631704008993_n.jpg",
+      "total_points": 138.5,
+      "bitcoin_address": "18b9ctBgzju4hDiQqSdJrTM4gzQcfHqS9t"
+    },
+    {
+      "id": 6,
+      "post_url": "https://www.instagram.com/p/C4-6hgLrHN2/",
+      "likes": "69",
+      "comments": "50",
+      "username": "kayredbk2",
+      "avatar": "287590862_173527315051024_4842508615777398893_n.jpg",
+      "total_points": 94.0,
+      "bitcoin_address": "14fL6RHERLZcy3Cjnim4KinyuDYk67XyCR"
+
+    },
+    {
+      "id": 7,
+      "post_url": "https://www.instagram.com/p/C5EHcfULvq-/",
+      "likes": "44",
+      "comments": "21",
+      "username": "kingspazzotv",
+      "avatar": "311455938_168456512517428_4288208297317518514_n.jpg",
+      "total_points": 54.5,
+      "bitcoin_address": "16wAnYEuuxhavSHuVNUR5kM4Bwuap78NV9"
+    },
+    {
+      "id": 8,
+      "post_url": "https://www.instagram.com/p/C5GynpZL-5k/",
+      "likes": "619",
+      "comments": "197",
+      "username": "cryssybandzz",
+      "avatar": "429857661_7099206743525351_1261749719288391518_n.jpg",
+      "total_points": 717.5,
+      "bitcoin_address": "1JXTaLokEsQdNsAGe2Cyyd3dwA7vCGvq35"
+    },
+    {
+      "id": 9,
+      "post_url": "https://www.instagram.com/p/C5GwEBhr_wx/",
+      "likes": "167",
+      "comments": "41",
+      "username": "pocahontae",
+      "avatar": "424968377_906453140977130_1493457848030410384_n.jpg",
+      "total_points": 187.5,
+      "bitcoin_address": "1P5ecUD6KAEmgo7DeJ9RycvWGVmGe1Ci8P"
+    },
+    {
+      "id": 10,
+      "post_url": "https://www.instagram.com/p/C5JPzfDroLL/",
+      "likes": "297",
+      "comments": "57",
+      "username": "morenabuena__",
+      "avatar": "435015196_807018451485152_7539867595346196720_n.jpg",
+      "total_points": 325.5,
+      "bitcoin_address": "1P5ecUD6KAEmgo7DeJ9RycvWGVmGe1Ci8P"
+
+    },
+    {
+      "id": 11,
+      "post_url": "https://www.instagram.com/p/C5KNq-yLUAS/",
+      "likes": "192",
+      "comments": "90",
+      "username": "gvo_serriano",
+      "avatar": "434458358_1145432839821958_8745278984794297539_n.jpg",
+      "total_points": 237.0,
+      "bitcoin_address": "1P5ecUD6KAEmgo7DeJ9RycvWGVmGe1Ci8P"
+
+    },
+    {
+      "id": 12,
+      "post_url": "https://www.instagram.com/p/C5LskVKLPkv/",
+      "likes": "182",
+      "comments": "74",
+      "username": "_biggtease",
+      "avatar": "292831023_601207698271410_320588232694291547_n.jpg",
+      "total_points": 219.0,
+      "bitcoin_address": "1P5ecUD6KAEmgo7DeJ9RycvWGVmGe1Ci8P"
+
+    },
+    {
+      "id": 13,
+      "post_url": "https://www.instagram.com/p/C5O1I-8O2sf/",
+      "likes": "137",
+      "comments": "82",
+      "username": "villaincalled_zoe",
+      "avatar": "339337908_1313396926187200_96091803077920782_n.jpg",
+      "total_points": 178.0,
+      "bitcoin_address": "1CDehv5EUWTmXJuc5xBnvyZKthQmQkrwoa"
+
+    },
+    {
+      "id": 14,
+      "post_url": "https://www.instagram.com/p/C5O2o-nxNis/",
+      "likes": "427",
+      "comments": "118",
+      "username": "iamtherealladymac",
+      "avatar": "425312903_949804949879979_532649741883130245_n.jpg",
+      "total_points": 486.0,
+      "bitcoin_address": "1CDehv5EUWTmXJuc5xBnvyZKthQmQkrwoa"
+    },
+    {
+      "id": 15,
+      "post_url": "https://www.instagram.com/p/C5RlZ_fLdsk/",
+      "likes": "40",
+      "comments": "23",
+      "username": "money_ryt_ent",
+      "avatar": "393175452_1080811932945609_3511804862193567464_n.jpg",
+      "total_points": 51.5,
+      "bitcoin_address": "1KB6YZFB2CyUbe51KV3t4J6eRzx5P47CeN"
+
+    }
+  ]
+}
