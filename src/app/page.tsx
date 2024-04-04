@@ -52,7 +52,7 @@ export default async function Home() {
           <div className="max-w-screen-xl mx-auto">
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8">
               <h1>Explode Cypher #3 leaderboard</h1>
-              <p className="text-gray-500">last updated: 2024-04-03 12:10 pm</p>
+              <p className="text-gray-500">last updated: 2024-04-04 12:10 pm</p>
               {artists.map((artist, index) => (
                 <Card key={artist.id}>
                   <CardHeader className="flex items-center space-x-2"> {/* space-x-2 for space between avatar and title */}
