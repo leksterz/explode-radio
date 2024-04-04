@@ -9,6 +9,7 @@ import {
 } from "@/components/ui/card"
 import { Avatar, AvatarFallback, AvatarImage} from "@/components/ui/avatar";
 import db from "../../data/db.json";
+import axios from "axios";
 
 
 interface Artist {
@@ -26,6 +27,13 @@ interface Artist {
 //   const response = await fetch("http://localhost:4009/artists");
 //   return response.json();
 // }
+
+
+async function getBitcoinBalance(address: string): Promise<string> {
+  const url = `https://blockchain.info/q/addressbalance/${address}`;
+  const response = await axios.get(url);
+  return (response.data / 1e8).toFixed(8); // Convert to BTC and format to 8 decimal places
+}
 
 function getArtists(): Artist[] {
   return db.artists;
@@ -82,8 +90,11 @@ export default async function Home() {
                     </a>
                     <div className="text-sm text-gray-700">
                       <span className="font-semibold">Support the artist with a Bitcoin tip:</span> {artist.bitcoin_address}
-
                     </div>
+                    <div>
+                      
+                    </div>
+
                   </CardFooter>
                   
                 </Card>
